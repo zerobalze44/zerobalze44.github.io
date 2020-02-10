@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>阁楼</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-02-09T21:43:28.662Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>零火</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>沃克纳特·想到什么写什么</title>
+    <link href="http://yoursite.com/2020/02/10/valknut-random-stuff/"/>
+    <id>http://yoursite.com/2020/02/10/valknut-random-stuff/</id>
+    <published>2020-02-09T21:39:25.717Z</published>
+    <updated>2020-02-09T21:43:28.662Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;帝国最大的特色不是其他的，而是女性工程师。相比于同时代的其他国家女性在地位方面更高，这也是源于帝国频繁发生的战争，因为过去的“土耳其继承法”而发生的内战，帝国同七王国所发生的战争。&lt;/p&gt;
+&lt;p&gt;大量的男性都被卷入战争中，而他们的妻子希望战争早日结束，于是其中一位女性贵族发明了一系列的装置，让战争更早的结束了。基于她的重大贡献帝国皇家学会接受女性入会，而在她的倡导下，女性更多的成为工程师。在她们的努力下帝国的技术有了更快的发展。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;To be continued…&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="沃克纳特" scheme="http://yoursite.com/categories/%E6%B2%83%E5%85%8B%E7%BA%B3%E7%89%B9/"/>
+    
+    
+      <category term="沃克纳特" scheme="http://yoursite.com/tags/%E6%B2%83%E5%85%8B%E7%BA%B3%E7%89%B9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>沃克纳特·帝国侧势力</title>
+    <link href="http://yoursite.com/2020/02/10/valknut-character/"/>
+    <id>http://yoursite.com/2020/02/10/valknut-character/</id>
+    <published>2020-02-09T21:11:20.181Z</published>
+    <updated>2020-02-09T21:43:15.188Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;艾米&quot;&gt;&lt;a href=&quot;#艾米&quot; class=&quot;headerlink&quot; title=&quot;艾米&quot;&gt;&lt;/a&gt;艾米&lt;/h2&gt;&lt;p&gt;外号：乡下人、帝都的幼狮、探险者、寄生虫&lt;br&gt;姓名：艾丽米亚·玛丽·埃尔哈特&lt;br&gt;字：艾米（Ame）&lt;br&gt;性别：女&lt;br&gt;所属势力：帝国、探寻真相小队&lt;br&gt;惯用武器：手弩、马刀&lt;/p&gt;
+&lt;p&gt;人物小传：&lt;br&gt;出生在乡下，在乡间度过了自己的幼年，习惯了在乡下奔跑和其他小孩子打打闹闹。父亲在这一期间可以说缺席，听母亲说父亲在作为工程师为帝国的反抗军服务。当父亲回来的时候他也带来了一个消息，他们一家被新皇帝分封为新贵族，并邀请他作为帝国军事专科学校的工程师。于是他们举家搬往帝都生活。&lt;/p&gt;
+&lt;p&gt;父亲在战争期间见识到了帝国女工程师的能力，下决心让以同样的目标培养自己的女儿，希望她能够让一家人能够进一步的上升。但突如其来的生活变化让她感到并不适应，其中礼仪课让她最为感到厌烦，而当父亲的工程师学徒紧随其后。不过军校里的其他生活让她感到好奇，各种武器和军事指挥更让她兴致勃勃。一开始是偷偷学习，后面越来越大胆，虽然并没有正式被军校录取，但她的行为被默许了。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="沃克纳特" scheme="http://yoursite.com/categories/%E6%B2%83%E5%85%8B%E7%BA%B3%E7%89%B9/"/>
+    
+    
+      <category term="沃克纳特" scheme="http://yoursite.com/tags/%E6%B2%83%E5%85%8B%E7%BA%B3%E7%89%B9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>沃克纳特·帝国侧势力</title>
+    <link href="http://yoursite.com/2020/02/10/valknut-empire-side-faction/"/>
+    <id>http://yoursite.com/2020/02/10/valknut-empire-side-faction/</id>
+    <published>2020-02-09T20:02:10.258Z</published>
+    <updated>2020-02-09T21:43:47.806Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;帝都近卫军「日夜之盾」&quot;&gt;&lt;a href=&quot;#帝都近卫军「日夜之盾」&quot; class=&quot;headerlink&quot; title=&quot;帝都近卫军「日夜之盾」&quot;&gt;&lt;/a&gt;帝都近卫军「日夜之盾」&lt;/h2&gt;&lt;p&gt;历史悠久的皇帝直隶部队，从一线部队服役15年以上的士兵中挑选而出。可以说是字面意义上最为精锐的部队，他们拥有最有经验的士兵以及最新的制式装备。&lt;br&gt;但因为此，他们的行事准则偏向于保守而非创新，对新武器的运用没有搭配与之匹配的战术。没有针对性的为火枪设计新的战术和方案。&lt;br&gt;但不论如何，没人想要和他们搞贴身战，毕竟他们是从尸山血海里爬出来的老练战士。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/valknut/sun-moon.png&quot; alt=&quot;日夜之盾&quot;&gt;&lt;br&gt;其标志为“太阳内嵌月牙”象征着日夜守卫&lt;/p&gt;
+&lt;p&gt;最近十年因为公主尚未成年并登基正式成为女皇，因此他们受命于摄政王（首席宰相，首相）的指挥。目前他们的指挥官则是首相的长子。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="沃克纳特" scheme="http://yoursite.com/categories/%E6%B2%83%E5%85%8B%E7%BA%B3%E7%89%B9/"/>
+    
+    
+      <category term="沃克纳特" scheme="http://yoursite.com/tags/%E6%B2%83%E5%85%8B%E7%BA%B3%E7%89%B9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>四季少女-夏</title>
+    <link href="http://yoursite.com/2019/08/25/season-jk-summer/"/>
+    <id>http://yoursite.com/2019/08/25/season-jk-summer/</id>
+    <published>2019-08-24T16:00:00.000Z</published>
+    <updated>2020-02-09T20:12:28.967Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/images/season-jk/season-jk-summer-logo.png&quot; alt=&quot;Alt text&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="四季少女" scheme="http://yoursite.com/categories/%E5%9B%9B%E5%AD%A3%E5%B0%91%E5%A5%B3/"/>
+    
+    
+      <category term="四季少女" scheme="http://yoursite.com/tags/%E5%9B%9B%E5%AD%A3%E5%B0%91%E5%A5%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>四季少女-春</title>
+    <link href="http://yoursite.com/2019/08/23/season-jk-spring/"/>
+    <id>http://yoursite.com/2019/08/23/season-jk-spring/</id>
+    <published>2019-08-22T16:00:00.000Z</published>
+    <updated>2020-02-09T20:11:45.517Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/images/season-jk/season-jk-spring-logo.png&quot; alt=&quot;Alt text&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="四季少女" scheme="http://yoursite.com/categories/%E5%9B%9B%E5%AD%A3%E5%B0%91%E5%A5%B3/"/>
+    
+    
+      <category term="四季少女" scheme="http://yoursite.com/tags/%E5%9B%9B%E5%AD%A3%E5%B0%91%E5%A5%B3/"/>
+    
+  </entry>
+  
+</feed>
